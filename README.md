@@ -20,3 +20,12 @@ Majority of feedback is average → training quality can improve
 5. Certification Gap
 Only 20% employees certified
 Indicates low conversion from training → certification
+
+# Overall Project File
+File:
+'Training_Performance_Analysis.xlsx'
+
+It includes:
+- Datasets
+- Pivot Tables
+- Dashboard
